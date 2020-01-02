@@ -1,0 +1,11 @@
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.exe
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.deps.json
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.runtimeconfig.json
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.runtimeconfig.dev.json
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.dll
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\bin\Debug\netcoreapp3.0\AkademiaGitHub.pdb
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\obj\Debug\netcoreapp3.0\AkademiaGitHub.csprojAssemblyReference.cache
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\obj\Debug\netcoreapp3.0\AkademiaGitHub.AssemblyInfoInputs.cache
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\obj\Debug\netcoreapp3.0\AkademiaGitHub.AssemblyInfo.cs
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\obj\Debug\netcoreapp3.0\AkademiaGitHub.dll
+C:\Users\Jacek\Desktop\AkademiaRepo\AkademiaGitHub\AkademiaGitHub\obj\Debug\netcoreapp3.0\AkademiaGitHub.pdb
